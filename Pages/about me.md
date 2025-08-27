@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
+---
+layout: page
+title: About
+permalink: /pages/about me/
+nav_order: 2
+---
