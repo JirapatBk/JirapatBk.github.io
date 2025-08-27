@@ -4,7 +4,7 @@ title: About
 permalink: /pages/page_2/
 nav_order: 2
 ---
-# About me! :wave:
+# About me! 
 
 ## Background
 
