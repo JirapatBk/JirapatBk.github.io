@@ -4,10 +4,15 @@ title: About
 permalink: /pages/page_2/
 nav_order: 2
 ---
-# About me! 
+# Introduce Myself! 
 
-## Background
 
-My name is Jirapat wongkobsilp, I am a student from institute: KMUTNB 
+My name is Jirapat Wongkobsilp, I am a student from institute: KMUTNB. My major is Electrical And Automation Engineering Technology.
+
+contact me
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0f1e134b-a133-40a5-a985-ac5950710181" /> email: s6612022631033@email.kmutnb.ac.th
+
+
 
 
