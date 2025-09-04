@@ -8,4 +8,9 @@ nav_order: 6
 
 ## Background
 
-My skills is .... 
+My software skills
+- NI Multisim
+- PSIM
+- GX Works2
+- TIA Portal V17
+- Dev-c++
