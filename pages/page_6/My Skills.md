@@ -13,4 +13,4 @@ My software skills
 - PSIM
 - GX Works2
 - TIA Portal V17
-- Dev-C++ (C programming)
+- Dev-C++ (C Language)
