@@ -16,7 +16,7 @@ color: blue;
 }
 nav a{
 
-  
+  text-decoration: none;
   text-transform: capitalize;
   color: blue;
   font-size: 20px;
