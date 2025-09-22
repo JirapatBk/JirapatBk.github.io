@@ -57,7 +57,13 @@ td{
 
   
 }
-th,td:hover{
+th:hover{
+
+  color: red;
+
+  
+}
+td:hover{
 
   color: red;
 
