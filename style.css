@@ -85,7 +85,14 @@ td:hover{
 
   
 }
-nav li{
+.menu{
+  width: 500px;
+  height: 500px;
+
+
+  
+}
+li{
   padding-top: 30px;
  list-style: none;
 
