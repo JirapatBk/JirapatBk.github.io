@@ -11,8 +11,10 @@ nav_order: 6
 My software skills
 - NI Multisim
 - PSIM
+- Proteus
 - GX Works2
 - TIA Portal V17
+- Arduino IDE
 - Visual Studio code
   
 My programming skills
