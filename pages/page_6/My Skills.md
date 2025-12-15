@@ -12,11 +12,15 @@ My software skills
 - NI Multisim
 - PSIM
 - Proteus
+- LTspice
 - GX Works2
-- TIA Portal V17
+- TIA Portal
 - Arduino IDE
 - Visual Studio code
   
 My programming skills
 - Dev-C++ (C Language)
 - HTML,CSS (beginner)
+- Python
+
+
