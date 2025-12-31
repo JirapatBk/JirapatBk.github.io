@@ -1,11 +1,16 @@
----
-layout: page
-title: Awards
-permalink: /pages/page_4/
-nav_order: 4
----
-# My Awards
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
 
-## Background
+<h2>Awards</h2>
+<p>My Awards</p>
 
-My awards is
+
+
+ <p> My Awards is   </p>
+
+
+ 
+
+</body>
+</html>
